@@ -40,8 +40,8 @@ The following datasets are used in this project:
 
 Include some sample charts, such as:
 
-Occupancy rate bar chart.
-Revenue distribution pie chart.
+   - Occupancy rate bar chart.
+   - Revenue distribution pie chart.
 
 ## Libraries Used:
 
